@@ -1,0 +1,16 @@
+{
+  "name": "segwit",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "author": "jaonoctus",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12"
+  }
+}
